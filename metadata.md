@@ -38,7 +38,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/akbasduru/RiskEliminator)
 
 ### GitHub Repository for Research Data
 
