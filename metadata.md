@@ -4,7 +4,7 @@
 
 A research group member should type their name below.
 
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: Duru Akbas
 
 ## Reading Syllabus Pledge
 
@@ -12,7 +12,7 @@ A research group member should add an X-mark to the box to indicate that they
 have carefully read and understood the Junior Seminar Research Project Syllabus
 and that they are ready to complete their Junior Seminar Research Project.
 
-- [ ] I read the Junior Seminar Research Project Syllabus and am ready to begin
+- [X] I read the Junior Seminar Research Project Syllabus and am ready to begin
   the completion of my Junior Seminar Research Project.
 
 ## Honor Code Pledge
@@ -21,28 +21,28 @@ A research group member should add an X-mark to the box to indicate that they
 agree to adhere to the Allegheny College Honor Code during the completion of
 their Junior Seminar Research Project.
 
-- [ ] I agree to adhere to the Allegheny College Honor Code during the
+- [X] I agree to adhere to the Allegheny College Honor Code during the
   completion of my Junior Seminar Research Project.
 
 ## GitHub Username
 
 A research group member should type their GitHub username below.
 
-- **GitHub Username**: `Add Your GitHub Username Here`
+- **GitHub Username**: akbasduru
 
 ## GitHub Repositories
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-akbasduru)
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/akbasduru/Data-Center-Estimation)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/akbasduru/Data-Center-Estimation)
 
 ## Research Project Title
 
@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-Add the Title of Your Junior Seminar Research Project
+GeoCore: An Interactive Geospatial Tool for Data Center Cost Estimation and Decision Support
 ```
 
 ## Research Group Contributions
@@ -65,49 +65,50 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
-- **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
+## Student 1: Aidan Dyga
 
-Example entries:
+- **Researcher Name / Project**: Aidan Dyga / Pysealer 
+- **Feedback Provided**: I gave him suggestions on the flow of his Second part of his Senior Project which was the "Related Work". I thought that his writing flow could have been improved because it was difficult for me to make connections between the different copmponents he brought in.
+- **Impact**: He did mention when he was closing the issue that he is aware of it and he may try to improve the language and the flow of the paragraphs.
+- **Reference**: [Aidan Dyga's Senior Project Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-dyga01/issues/7)
 
-- **Student Name One / Machine Learning Bias Detection**: Suggested examining
-  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
-  into her evaluation framework
-- **Student Name Two / Distributed Caching System**: Asked about handling
-  network partitions during demo; led to important discussion about consistency
-  models
-- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
-  real-time performance comparison; Alex added this feature in Week 12
+## Student 2: Preston Smith
+
+- **Researcher Name / Project**: Preston Smith / PathMaker
+- **Feedback Provided**: I gave him suggestions on his Introduction part. I suggested that it can be harder to understand different contexts when there are long and heavy sentences, dividing them apart is a better way to make your point. Also, there were couple grammar mistakes and I brought it up to him.
+- **Impact**: I am not aware if he changed anything.
+- **Reference**: [Preston Smith's Senior Project Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Poiuy7312/issues/9)
+
+## Student 3: Coltin Colucci
+
+- **Researcher Name / Project**: Coltin Colucci/ GDBuddy
+- **Feedback Provided**: I gave him suggestions on how to make the readers understand what his tool does and what the work flow looks like while the execution happens.
+- **Impact**: I just submitted the issue.
+- **Reference**: [Coltin Colucci's Senior Project Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/10)
+
+## Student 4: Veronica McNeece
+
+- **Researcher Name / Project**: Veronica McNeece/ HueCloset
+- **Feedback Provided**: I provided feedback on her chapter 3. I suggested that she adds a color chart diagram for her chapter and small revisions between the chapters but I really like the flow of her paragraphs.
+- **Impact**: I just submitted the issue.
+- **Reference**: [Veronica's Junior Seminar Methods Chapter Peer-Review](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece/issues/8)
 
 ### Technical Discussions and Problem-Solving
 
 Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
-
-Example entries:
-
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
+- **Discussion Topic / Problem**: As in my table in the group discussion, with 4 of my peers, we discussed which diagram styles we liked the most for each of our topics and which one would be the most suitable one for each of us.
+- **Your Contribution**: I suggested to each of them which one I thought would be the best and which branches they could add/take out from their diagrams. Also, shared my mermaid diagram, which I thought would be the most suitable one, and received feedback on mine.
+- **Outcome**: All of us ended with a diagram we all liked, and we added to our research chapters.
 
 ### Research Group Meeting Participation
 
 Note particularly meaningful contributions during research group meetings:
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
+- **Meeting Date / Topic**: Week 14 / Experiment Ideas
+- **Contribution**: I asked my peers who were at my table about how I would test the accuracy of my tool and whether they thought I should do that or not. Also, I reviewed their ideas for their experiments and gave them feedback. For example, for Sam's testing, I really liked his idea and gave him feedback.
+- **Value to Group**: I think we all saw different perspectives on whether our experiment idea was valid or not, which helped us to come back to our initial experiment idea and then decide whether we want to go with it or not. Also, even if we had the experiment idea we talked about how we would implement it.
 
 Example entries:
 
@@ -125,9 +126,9 @@ Example entries:
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
+- **Resource**: [Mermaid AI] (https://mermaid.js.org/)
+- **Shared With**: People on my table at the time, Sam and Veronica.
+- **Purpose**: We were talking about diagrams, and I found the AI to create the diagrams that would help us all.
 
 Example entries:
 
