@@ -38,11 +38,11 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/akbasduru/RiskEliminator)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/akbasduru/Data-Center-Estimation)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/akbasduru/Data-Center-Estimation)
 
 ## Research Project Title
 
@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-Risk Eliminator: An AI-based Venture Investment Decision Support System
+GeoCore: An Interactive Geospatial Tool for Data Center Cost Estimation and Decision Support
 ```
 
 ## Research Group Contributions
@@ -98,27 +98,17 @@ during presentations, demonstrations, or informal discussions. Include:
 Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
-
-Example entries:
-
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
+- **Discussion Topic / Problem**: As in my table in the group discussion, with 4 of my peers, we discussed which diagram styles we liked the most for each of our topics and which one would be the most suitable one for each of us.
+- **Your Contribution**: I suggested to each of them which one I thought would be the best and which branches they could add/take out from their diagrams. Also, shared my mermaid diagram, which I thought would be the most suitable one, and received feedback on mine.
+- **Outcome**: All of us ended with a diagram we all liked, and we added to our research chapters.
 
 ### Research Group Meeting Participation
 
 Note particularly meaningful contributions during research group meetings:
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
+- **Meeting Date / Topic**: Week 14 / Experiment Ideas
+- **Contribution**: I asked my peers who were at my table about how I would test the accuracy of my tool and whether they thought I should do that or not. Also, I reviewed their ideas for their experiments and gave them feedback. For example, for Sam's testing, I really liked his idea and gave him feedback.
+- **Value to Group**: I think we all saw different perspectives on whether our experiment idea was valid or not, which helped us to come back to our initial experiment idea and then decide whether we want to go with it or not. Also, even if we had the experiment idea we talked about how we would implement it.
 
 Example entries:
 
@@ -136,9 +126,9 @@ Example entries:
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
+- **Resource**: [Mermaid AI] (https://mermaid.js.org/)
+- **Shared With**: People on my table at the time, Sam and Veronica.
+- **Purpose**: We were talking about diagrams, and I found the AI to create the diagrams that would help us all.
 
 Example entries:
 
